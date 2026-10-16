@@ -57,10 +57,14 @@ Uma câmera interativa feita em **Python**, controlada **só com as mãos e o ro
 1. **Baixe o projeto** (clone o repositório ou baixe o arquivo `projetoDeCamera.py`).
 
    ```bash
-   git clone https://github.com/ArthurRabeloNS/Jogos_Games.git
+   git clone https://github.com/ArthurRabeloNS/Interativo.git
    ```
 
-   > Ajuste o link/pasta de acordo com o repositório onde o projeto está.
+   O projeto está dentro da pasta `camera`:
+
+   ```bash
+   cd Interativo/camera
+   ```
 
 2. **(Opcional) Crie um ambiente virtual:**
 
