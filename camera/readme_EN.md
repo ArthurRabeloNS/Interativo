@@ -59,10 +59,14 @@ An interactive camera built in **Python**, controlled **only with your hands and
 1. **Download the project** (clone the repository or download the `projetoDeCamera.py` file).
 
    ```bash
-   git clone https://github.com/ArthurRabeloNS/Jogos_Games.git
+   git clone https://github.com/ArthurRabeloNS/Interativo.git
    ```
 
-   > Adjust the link/folder to match the repository where the project lives.
+   The project lives inside the `camera` folder:
+
+   ```bash
+   cd Interativo/camera
+   ```
 
 2. **(Optional) Create a virtual environment:**
 
