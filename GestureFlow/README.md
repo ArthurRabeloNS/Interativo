@@ -51,8 +51,6 @@ Open a terminal and run:
 git clone https://github.com/ArthurRabeloNS/GestureFlow.git
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 Navigate to the project directory:
 
 ```bash
@@ -78,8 +76,6 @@ Activate it on Windows:
 ```bash
 python -m pip install -r requirements.txt
 ```
-
-If the `requirements.txt` file is not available yet, install the dependencies manually:
 
 ```bash
 python -m pip install opencv-python numpy mediapipe==0.10.14 pynput
@@ -147,10 +143,6 @@ Because the application controls the real mouse and keyboard, test gestures in a
 GestureFlow explores alternative ways for people to interact with computers through computer vision, hand gesture recognition, and desktop automation.
 
 It also provides an opportunity to learn about Python libraries, hand tracking, and alternative input interfaces.
-
-## 📄 License
-
-A license has not yet been selected for this project. Refer to the `LICENSE` file once it becomes available.
 
 ---
 
